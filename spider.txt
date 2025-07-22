@@ -1,0 +1,9 @@
+welcome to fusion
+aws devops containt
+aws services
+ec2
+s3
+vpc
+ebs
+elb
+
